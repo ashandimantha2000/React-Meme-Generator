@@ -1,4 +1,3 @@
-import React from 'react'
 import TrollFace from '../assets/images/Troll Face.png'
 
 function Header() {
