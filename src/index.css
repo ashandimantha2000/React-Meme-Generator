@@ -43,7 +43,7 @@ main{
 .form {
   display: grid;
   grid-template: 40px 40px / 1fr 1fr;
-  gap: 17px;
+  gap: 20px;
 }
 
 .form input {
@@ -51,6 +51,8 @@ main{
   border-radius: 5px;
   border: 1px solid #D5D4D8;
   text-indent: 5px;
+  width: 100%;
+  height: 80%;
 }
 
 .form button {
@@ -61,4 +63,8 @@ main{
   color: white;
   border: none;
   cursor: pointer;
+}
+
+.form-label{
+  margin-bottom: 5px;
 }
