@@ -68,3 +68,8 @@ main{
 .form-label{
   margin-bottom: 5px;
 }
+
+
+.meme-image{
+  max-width: 100%;
+}
